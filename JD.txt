@@ -1,0 +1,89 @@
+Responsibilities
+• Develop and maintain service that extracts websites data using scrapers and APIs across multiple website
+• Extract structured / unstructured data
+• Manipulate data through text processing, image processing, regular expressions etc.
+• Writing reusable, testable, and efficient code
+• Manage testing and bug fixes
+
+Qualifications
+• Good knowledge in Python
+• Good knowledge in web scraping and APIs
+• Familiarity with some scraping tools like BeautifulSoup or Scrappy etc
+• Good troubleshooting and debugging skills
+• Strong interpersonal, verbal and written communication skills in English.
+#######################################################################################################################
+
+Econolytics
+We are looking for a data engineer, who can develop an API in python that will extract from a website, transform and load intoa database.
+Thereafter, the API needs to be automated to run real-time and keep updating the database, based on a predetermined algorithm.
+
+################################################################################################################
+Aktivita Hr SOlutions
+
+- As a Python Developer, your role is to apply your knowledge set to fetch data from multiple online sources, cleanse it and build APIs on top of it.
+- Develop a deep understanding of our vast data sources on the web and know exactly how, when, and which data to scrap, parse and store this data.
+- Develop frameworks for automating and maintaining constant flow of data from multiple sources.
+
+- Work independently with little supervision to research and test innovative solutions
+
+- Strong knowledge of scraping frameworks such as Python (Request, BeautifulSoup), WebHarvest and other
+#################################################################################################################################
+The Recruit 
+ Good knowledge in Pandas, Web scraping and Web Data extraction.
+- Proficient coder in Python languages and environments including Python.
+- Design the MySQL Database Schema and interfaced it with python in programs
+#################################################################################################################################
+What is the difference between Scarpy and BeautifulSoup ? 
+So the difference between the two is actually quite large:
+Scrapy is a tool specifically created for downloading, cleaning and saving data from the web and will help you end-to-end; 
+whereas BeautifulSoup is a smaller package which will only help you get information out of webpages.
+Strong knowledge of scraping frameworks such as Scrapy, Beautiful Soup, HTQL, Jsoup, Web-Harvest and 
+
+
+https://hexfox.com/p/scrapy-vs-beautifulsoup/#:~:text=So%20the%20difference%20between%20the,get%20information%20out%20of%20webpages.
+#############################################################################################################################
+Hermitz Pvt Ltd.
+eed a Screen Scraping expert developer who can scrap a live web page 
+(Should work as an API) to scrape registration process and display data on the application.
+Some Anwsers --------------------------->>>
+https://searchdatacenter.techtarget.com/definition/screen-scraping
+What is it used for?
+Screen scrapers have been applied in a broad number of fields for a variety of use cases. Some potential uses include:
+
+banking applications and financial transactions;
+saving meaningful data for later use;
+to perform actions a user would on a website;
+to translate data from a legacy application to a modern application;
+for data aggregators such as price comparison websites;
+to track user profiles to see online activities; and
+to steal data.
+
+  creen scrapers can be based around applications such as Selenium or PhantomJS, which allows users to obtain information from HTML in a browser. 
+  Unix tools, such as Shell scripts, can also be used as a simple screen scraper.
+Must have experience
+• Should have worked on Screen Scraping Project
+• Python or PHP Programing Language
+• API Integration
+• Javascript
+• HTML5 & CSS3
+• Responsive Design
+#############################################################################################################
+Demand matrix
+We are looking for a Lead who loves tech challenges and is a problem solver. 
+This will give you an opportunity to brainstorm ideas and implement solutions from scratch
+\/\/\\/\/\/\/\/\//\/\\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\\/\/\/\/\/\/\/\/\/\/\/\
+Antal International JD 
+Job Responsibilities:
+• As a Lead Web Scraper, your role is to understand requirement and apply your knowledge set to fetch data from multiple online sources.
+• Develop a deep understanding of our vast data sources on the web and know exactly how, when, and which data to scrap, parse and store.
+• Basis the nature of data and the business logic, define appropriate NoSQL datastores and the underlying data model.
+• Develop frameworks for automating and maintaining constant flow of data from multiple sources.
+Experience with NoSQL databases like MongoDB etc.
+• Experience with multi-processing, multi-threading and AWS/Azure
+• Strong knowledge of scraping frameworks such as Python (Request, Beautiful Soup), Webharvest, Scrapy and others
+
+#########################################################################################################################
+Libraries >>>>>>>>>data visualization libraries (i.e. D3.js, Seaborn). 
+Yo Hr Consultancy Indore Compnay name is Yo 
+###########################################################################################################################
+
